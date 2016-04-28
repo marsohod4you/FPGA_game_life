@@ -8,6 +8,7 @@ Serial settings: 115200, 8bit, 1stop, no parity.
 Field display over HDMI port 1280x720.
 Board description: https://marsohod.org/plata-marsokhod3
 
-View video demo at: https://youtu.be/Q56doVOTYx8
+View video demo at: https://youtu.be/1fjvGrfTt_w
+
 
 
